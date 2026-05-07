@@ -1,0 +1,14 @@
+class_names:
+- background
+- eye_brown
+- eye
+- nose
+- mouth
+- face
+- hair
+dataset_stats:
+  test: 100
+  total: 2099
+  train: 1700
+  val: 299
+num_classes: 7
